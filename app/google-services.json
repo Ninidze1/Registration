@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1017212649528",
+    "project_id": "registationtonothing",
+    "storage_bucket": "registationtonothing.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1017212649528:android:1cff2838f77568cb51a6cd",
+        "android_client_info": {
+          "package_name": "com.example.registrationtonothing"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1017212649528-b6blh5c5466g93mhqun14q9ht4o693sk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBu_XL7ulRCdPoNQAQtw1xnTPUUKMk8kwU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1017212649528-b6blh5c5466g93mhqun14q9ht4o693sk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
